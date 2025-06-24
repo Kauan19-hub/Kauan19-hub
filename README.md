@@ -1,7 +1,7 @@
 # 👋 Hi guys!
 
 - Well, I'm Back-End Developer;
-- Actually, I'm working at Bosch;
+- I started work at Bosch, on March, 17th;
 - And, I'm Graphic Designer!
 
 <div align="left">
