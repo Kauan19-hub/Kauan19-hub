@@ -2,7 +2,6 @@
 
 - Well, I'm Back-End Developer;
 - I started work at Bosch, on March, 17th;
-- I'm Graphic Designer!
 - I'm 17 years old.
 
 ###
