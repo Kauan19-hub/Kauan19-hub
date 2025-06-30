@@ -9,17 +9,17 @@
 ###
 
  # 🚀 Skills
- - Back-End - Python, Java;
+ - Back-End - Python, Java, DJango;
  - DataBase - MongoDB, PhP, WareHouse, SQL/MySQL;
  - Tools - VSCode, Git, PyCharm, IntelliJ, PhPStorm, Packet Tracer;
- - API's - JSon, Rest, RPC, SOAP.
+ - API's - Rest, RPC, SOAP.
 
  ###
  
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" 
-   
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="30" alt="php logo"  />
