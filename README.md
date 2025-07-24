@@ -1,9 +1,8 @@
 # 👋 Hi, guys!
 
-- Well, I'm Back-End Developer;
+- I'm Back-End Developer;
 - I started work at Bosch, on March, 17th;
 - I'm 17 years old;
-- OpenSource Projects;
 - Transforming challenges into opportunities!
 
 ###
@@ -11,7 +10,7 @@
  # 🚀 Skills
  - Back-End - Python, Java, DJango;
  - DataBase - MongoDB, PhP, WareHouse, SQL/MySQL;
- - Tools - VSCode, Git, PyCharm, IntelliJ, PhPStorm, Packet Tracer;
+ - Tools - VSCode, Git, PyCharm, IntelliJ;
  - API's - Rest, RPC, SOAP.
 
  ###
