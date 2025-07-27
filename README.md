@@ -14,7 +14,7 @@
 
  ###
  
- # 🛠️ linguagens:
+ # 🛠️ Linguagens:
 
  ###
 
