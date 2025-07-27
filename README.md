@@ -37,10 +37,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="8" />
-
-###
-
-<div align="left">
 </div>
 
 ###
