@@ -29,12 +29,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
