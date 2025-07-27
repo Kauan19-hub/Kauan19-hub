@@ -18,7 +18,7 @@
 
  ###
 
- 📚 Essas são algumas linguagens de Back-End que mais uso:
+ 📚 Essas são algumas linguagens que mais uso:
 <div align="left">
 </div>
 
