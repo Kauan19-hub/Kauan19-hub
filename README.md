@@ -37,9 +37,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="8" />
-</div>
 
 ###
 
