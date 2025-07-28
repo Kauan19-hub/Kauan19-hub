@@ -12,13 +12,13 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
- ###
+###
  
- # 🛠️ Linguagens:
+# 🛠️ Linguagens:
 
- ###
+###
 
- 📚 Essas são algumas linguagens que mais uso:
+📚 Essas são algumas linguagens que mais uso:
 <div align="left">
 </div>
 
@@ -45,6 +45,10 @@
 </div>
 
 ###
+
+<body style="margin: 0px; height: 100%; color: rgb(173, 216, 230);">
+  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
+</body>
 
 
 
