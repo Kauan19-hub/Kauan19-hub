@@ -19,8 +19,6 @@
 ###
 
 📚 Essas são algumas linguagens que mais uso:
-<div align="left">
-</div>
 
 ###
 
