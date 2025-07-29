@@ -33,8 +33,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
 
