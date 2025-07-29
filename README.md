@@ -33,9 +33,7 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
-</div>
+  <img width="8" />
 
 ###
 
