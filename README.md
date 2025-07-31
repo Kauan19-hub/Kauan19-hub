@@ -2,7 +2,7 @@
 
 ###
 
-💎 Redes onde você pode me encontrar:
+💎 Redes onde você pode falar comigo:
 <div align="left">
   <a href="https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==" /a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
