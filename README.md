@@ -34,6 +34,10 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
 </div>
 
 ###
