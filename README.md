@@ -1,5 +1,4 @@
 # 👋 Oi! Meu nome é Kauan!
-background-color: #c0c0c0
 
 ###
 
