@@ -53,15 +53,4 @@ I'm UI/UX and Back-End developer.
 
 # 🐍 Snake Game:
 
-<p aligin="left">
-  <img src="https://github.com/Kauan19-hub//actions/runs/16710697585/job/47295148298">Commit
-</p>
 
-
-
-
-
-
-
-
- 
