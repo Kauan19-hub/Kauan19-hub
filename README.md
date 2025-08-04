@@ -53,4 +53,8 @@ I'm UI/UX and Back-End developer.
 
 # 🐍 Snake Game:
 
+###
+
+![snake animation](https://github.com/Kauan19-hub/Kauan19-hub/blob/output/github-contribution-grid-snake.svg)
+
 
