@@ -3,7 +3,7 @@ I'm UI/UX and Back-End developer.
 
 ###
 
-💎 Networks where you can talk to me: :
+💎 Networks where you can talk to me:
 <div align="left">
   <a href="https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==" /a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
