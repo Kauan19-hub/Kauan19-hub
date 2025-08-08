@@ -60,8 +60,7 @@ I'm UI/UX designer and Back-End developer.
 I'm going to help you upload your archives to your Github!
 
 ###
-
-                                                https://github.com/Kauan19-hub/Tutorial.git
+                                            https://github.com/Kauan19-hub/Tutorial.git
 
 ###
 
