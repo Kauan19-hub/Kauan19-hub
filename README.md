@@ -69,5 +69,3 @@ I'm going to help you upload your archives to your Github!
 ###
 
 ![snake animation](https://github.com/Kauan19-hub/Kauan19-hub/blob/output/github-contribution-grid-snake.svg)
-
-
