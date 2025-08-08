@@ -1,5 +1,5 @@
 # 👋 Hi, my name is Kauan!
-I'm UI/UX and Back-End developer.
+I'm UI/UX designer and Back-End developer.
 
 ###
 
