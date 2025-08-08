@@ -1,9 +1,9 @@
-# 👋 Hi, my name is Kauan!
+# **👋 Hi, my name is Kauan!**
 I'm UI/UX designer and Back-End developer.
 
 ###
 
-💎 Networks where you can talk to me:
+💎 **Networks where you can talk to me:**
 <div align="left">
   <a href="https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==" /a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -14,8 +14,8 @@ I'm UI/UX designer and Back-End developer.
 </div>
 
 ###
- 
-# 🛠️ Languages:
+
+# **🛠️ Languages:**
 
 ###
 
@@ -51,7 +51,7 @@ I'm UI/UX designer and Back-End developer.
 
 ###
 
-# 💻 Access:
+# **💻 Access:**
 
 ###
 
@@ -63,7 +63,7 @@ I'm going to help you upload your archives to your Github!
 
 ###
 
-# 🐍 Snake Game:
+# **🐍 Snake Game:**
 
 ###
 
