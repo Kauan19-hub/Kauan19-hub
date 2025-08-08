@@ -40,6 +40,7 @@ I'm UI/UX designer and Back-End developer.
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
+  <img width="8" />
 </div>
 
 ###
