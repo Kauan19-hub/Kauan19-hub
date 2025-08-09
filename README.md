@@ -1,7 +1,6 @@
 # **👋 Hi, my name is Kauan!**
 I'm UI/UX designer and Back-End developer.
 
-
 ###
 
 💎 **Networks where you can talk to me:**
