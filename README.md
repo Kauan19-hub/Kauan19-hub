@@ -63,10 +63,4 @@ I'm going to help you upload your archives to your Github!
 https://github.com/Kauan19-hub/Tutorial.git
 
 ###
-
-# **🐍 Snake Game:**
-
-###
-
-![snake animation](https://github.com/Kauan19-hub/Kauan19-hub/blob/output/github-contribution-grid-snake.svg)
     
