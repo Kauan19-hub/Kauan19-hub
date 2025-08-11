@@ -40,6 +40,7 @@ I'm UI/UX designer and Back-End developer.
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
