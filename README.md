@@ -19,7 +19,7 @@ I'm UI/UX designer and Back-End developer.
 
 ###
 
-📚 These are some languages I use most:
+📚 **These are some languages I use most:**
 
 ###
 
