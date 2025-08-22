@@ -62,10 +62,9 @@ I'm UI/UX designer and Back-End developer.
 
 I'm going to help you upload your archives to your Github!<br/>
 
-<div align="left">
-  <a href="https://github.com/Kauan19-hub/Tutorial.git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="37" alt="github logo"  title="Suba seus projetos aqui!" />
-</div>
+[Upload Your Projects!](https://github.com/Kauan19-hub/Tutorial.git "Suba seus projetos aqui")
 
 ###
+
+
     
