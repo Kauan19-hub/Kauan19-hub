@@ -56,15 +56,5 @@ I'm UI/UX designer and Back-End developer.
 
 ###
 
-# **💻 Access:**
-
-###
-
-I'm going to help you upload your archives to your Github!<br/>
-
-[Upload Your Projects!](https://github.com/Kauan19-hub/Tutorial.git "Suba seus projetos aqui")
-
-###
-
 
     
