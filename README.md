@@ -1,5 +1,5 @@
-# **👋 Hi, my name is Kauan!**
-I'm UI/UX designer and Back-End developer.
+**<h2>👋 Hi, my name is Kauan!</h2>**
+I'm Full-Stack developer, and UI/UX designer.
 
 ###
 
@@ -15,11 +15,11 @@ I'm UI/UX designer and Back-End developer.
 
 ###
 
-# **🛠️ Languages:**
+**<h2>🛠️ Languages and Tools:</h2>**
 
 ###
 
-📚 **These are some languages I use most:**
+📚 **These are some languages and tools I use most:**
 
 ###
 
