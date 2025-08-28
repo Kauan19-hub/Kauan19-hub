@@ -2,7 +2,6 @@
 
 ###
 
-💎 **Networks where you can talk to me:**
 <div align="left">
   <a href="https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==" title="Instagram!" /a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=2E1065&logoColor=ffffff&labelColor=0000&style=for-the-badge" height="25" alt="instagram logo" />
@@ -15,10 +14,6 @@
 ###
 
 **<h2>🛠️ Languages and Tools:</h2>**
-
-###
-
-📚 **These are some languages and tools I use most:**
 
 ###
 
