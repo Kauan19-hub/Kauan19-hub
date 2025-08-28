@@ -53,8 +53,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kauan19-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  title="Languages Graph" />
 </div>
 
-
 ###
+
+<h6>Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author.</h6>
+
+[MIT License](https://opensource.org/licenses/MIT)
 
 
     
