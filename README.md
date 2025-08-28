@@ -1,5 +1,4 @@
 **<h2>👋 Hi, my name is Kauan!</h2>**
-I'm Full-Stack developer, and UI/UX designer.
 
 ###
 
