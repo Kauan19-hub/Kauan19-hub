@@ -19,7 +19,7 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" title="Python" />
-  <img width="8" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" title="Java" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" title="HTML5" />
