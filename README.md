@@ -18,25 +18,25 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" title="Python" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" title="Java" />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" title="Java" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" title="HTML5" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css logo" title="CSS3" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" title="JavaScript" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="React" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" title="React" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo" title="Postman" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" title="Django" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo" title="C++" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" title="FastAPI"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="fastapi logo" title="FastAPI"  />
   <img width="8" />
 </div>
 
