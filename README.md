@@ -52,10 +52,8 @@ With junior experience in full-stack development, I have a passion for transform
 
 ###
 
-<br clear="both">
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kauan19-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  title="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kauan19-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=nightowl&hide_border=false&order=2&custom_title=Languages%20Graph" height="150" alt="languages graph"  />
 </div>
 
 ###
