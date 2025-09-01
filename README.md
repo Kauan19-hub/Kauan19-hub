@@ -6,7 +6,7 @@
 
 ###
 
-I am a multidisciplinary professional who works at the intersection of technology and creativity. Today I work at Bosch, where I apply my knowledge in engineering, UI/UX, and software development.
+I am a professional who works at the intersection of technology and creativity. Today I work at Bosch, where I apply my knowledge in engineering, UI/UX, and software development.
 
 With junior experience in full-stack development, I have a passion for transforming ideas into functional products — whether with clean code, intuitive interfaces, or clear documentation.
 
