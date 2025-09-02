@@ -49,6 +49,8 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="fastapi logo" title="FastAPI"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" title="MySQL" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo" title="Vite"  />
 </div>
 
 ###
