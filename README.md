@@ -61,7 +61,7 @@ With junior experience in full-stack development, I have a passion for transform
 
 --- 
 
-<h6>Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author.</h6>
+> <h6>Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author.</h6>
 
 [MIT License](https://opensource.org/licenses/MIT "Access to MIT License")
 
