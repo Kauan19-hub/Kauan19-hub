@@ -59,7 +59,7 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kauan19-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2&custom_title=Languages%20Graph" height="150" alt="languages graph" />
 </div>
 
-###
+--- 
 
 <h6>Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author.</h6>
 
