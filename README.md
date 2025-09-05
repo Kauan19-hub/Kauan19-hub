@@ -14,11 +14,11 @@ With junior experience in full-stack development, I have a passion for transform
 
 <div align="left">
   <a href="https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==" title="Instagram!" /a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=2E1065&logoColor=ffffff&labelColor=0000&style=for-the-badge" height="25" alt="instagram logo" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=295872&logoColor=ffffff&labelColor=0000&style=for-the-badge" height="25" alt="instagram logo" />
   <a href="mailto:saleskauan308@gmail.com" title="E-mail!" /a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=2E1065&logoColor=ffffff&labelColor=0000&style=for-the-badge" height="25" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=357599&logoColor=ffffff&labelColor=0000&style=for-the-badge" height="25" alt="gmail logo" />
   <a href="https://www.linkedin.com/in/kauan-vin%C3%ADcius-953773359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="Linkedin!" /a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=2E1065&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=4292bf&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </div>
 
 ###
