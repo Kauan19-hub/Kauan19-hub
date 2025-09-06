@@ -1,3 +1,7 @@
+> Profile in EN/USA 🇺🇸
+
+###
+
 **<h2>👋 Hello World, I'm Kauan!</h2>**
 
 ###
