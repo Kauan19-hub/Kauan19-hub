@@ -1,4 +1,4 @@
-> Profile in EN/USA 🇺🇸
+> Profile in EN/USA 
 
 ---
 
