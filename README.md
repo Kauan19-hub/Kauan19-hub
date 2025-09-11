@@ -44,7 +44,7 @@ With junior experience in full-stack development, I have a passion for transform
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" title="React" />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=angular" height="35" alt="angularjs logo" title="Angular" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo" title="Django" />
   <img width="2" />
