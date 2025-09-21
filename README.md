@@ -76,5 +76,10 @@ public class Main {
 
 [MIT License](https://opensource.org/licenses/MIT "Access to MIT License")
 
+###
+
+see the contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md "Access to Guide of Contributings")
+
+
 
     
