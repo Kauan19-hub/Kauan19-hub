@@ -50,7 +50,7 @@ With junior experience in full-stack development, I have a passion for transform
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" title="MySQL - SQL" />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo" title="Vite"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="35" alt="angularjs logo" title="Angular.JS  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" title="Node.JS"  />
 </div>
