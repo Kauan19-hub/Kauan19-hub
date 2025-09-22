@@ -86,7 +86,7 @@ public class Main {
 
 ###
 
-see the contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md "Access to Guide of Contributings")
+See the contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md "Access to Guide of Contributings")
 
 
 
