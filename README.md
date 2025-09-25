@@ -63,15 +63,6 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kauan19-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=vue-dark&hide_border=false&order=2&custom_title=Language's%20Graph" height="175" alt="languages graph"  />
 </div>
 
-###
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Let's go code! 💻");
-    }
-}
-```
-
 --- 
 
 > <h6>Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author.</h6>
