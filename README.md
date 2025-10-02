@@ -42,8 +42,6 @@ With junior experience in full-stack development, I have a passion for transform
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" title="JavaScript" />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" title="React" />
-  <img width="2" />
   <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo" title="Django" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo" title="C++" />
