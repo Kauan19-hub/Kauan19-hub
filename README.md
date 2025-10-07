@@ -55,6 +55,8 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" title="Node.JS"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" title="TailwindCSS"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=sass" height="35" alt="sass logo" title="SASS/SCSS" />
 </div>
 
 ###
