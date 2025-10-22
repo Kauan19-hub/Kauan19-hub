@@ -1,7 +1,3 @@
-**<h6>Profile in EN/USA</h6>**
-
-###
-
 **<h2>👋 Hello World, I'm Kauan!</h2>**
 
 ###
