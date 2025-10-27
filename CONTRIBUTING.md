@@ -1,4 +1,4 @@
-**<h2>👥 Contributions Guide</h2>**
+**<h2>Contributions Guide</h2>**
 
 ###
 
@@ -67,7 +67,7 @@ Found a bug or have a suggestion?
 
 ###
 
-**<h2>📜 Code of Conduct</h2>**
+**<h2>Code of Conduct</h2>**
 
 ###
 
@@ -76,5 +76,5 @@ Mutual respect is essential for building an organized and healthy community!
 
 ---
 
-**<h2>✍️ Thank u again for your contribution!</h2>**
+**<h2>Thank u again for your contribution!</h2>**
 
