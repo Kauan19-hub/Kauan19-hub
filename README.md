@@ -2,7 +2,7 @@
 
 ###
 
-**Bosch** Employee | **Full-Stack** Developer | **Technical** Drawing & **UI/UX**!
+**Bosch** Employee | **Full-Stack** Developer | **UI/UX** Designer
 
 ###
 
