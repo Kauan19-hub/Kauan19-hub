@@ -10,7 +10,7 @@ Thank you for your interest in contributing to my projects! Any contribution wil
 
 ###
 
-1️⃣- `Fork` the repository of the desired project;
+1️⃣- `Fork` the repository of the desired project;<h2>
 2️⃣- Create a `Branch` for your modification:
 
 ###
