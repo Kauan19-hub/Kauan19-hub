@@ -6,7 +6,7 @@ Thank you for your interest in contributing to my projects! Any contribution wil
 
 ###
 
-**<h2>✅ Hou to Contribute?</h2>**
+**<h2>✅ How to Contribute?</h2>**
 
 ###
 
