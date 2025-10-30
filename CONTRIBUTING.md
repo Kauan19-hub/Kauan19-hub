@@ -6,11 +6,11 @@ Thank you for your interest in contributing to my projects! Any contribution wil
 
 ###
 
-**<h2>How to Contribute?</h2>**
+**How to Contribute?**
 
 ###
 
-1️⃣- `Fork` the repository of the desired project;<h2>
+1️⃣- `Fork` the repository of the desired project;<br>
 2️⃣- Create a `Branch` for your modification:
 
 ###
@@ -42,7 +42,7 @@ git push -u origin My-Alteration
 
 ###
 
-**<h2>✅ Practices</h2>**
+**Practices**
 
 ###
 
@@ -53,7 +53,7 @@ git push -u origin My-Alteration
 
 ###
 
-**<h2>Report Problems</h2>**
+**Report Problems**
 
 ###
 
@@ -67,7 +67,7 @@ Found a bug or have a suggestion?
 
 ###
 
-**<h2>Code of Conduct</h2>**
+**Code of Conduct**
 
 ###
 
@@ -76,5 +76,5 @@ Mutual respect is essential for building an organized and healthy community!
 
 ---
 
-**<h2>Thank u again for your contribution!</h2>**
+**<h3>Thank u again for your contribution!</h3>**
 
