@@ -46,15 +46,13 @@ With junior experience in full-stack development, I have a passion for transform
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" title="MySQL - SQL" />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=sass" height="35" alt="sass logo" title="SASS/SCSS" />
+  <img src="https://skillicons.dev/icons?i=dart" height="35" alt="dart logo" title="Dart" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=angular" height="35" alt="angularjs logo" title="Angular.JS"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" title="Node.JS"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" title="TailwindCSS"  />
-
- 
 </div>
 
 ###
