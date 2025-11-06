@@ -26,7 +26,7 @@ With junior experience in full-stack development, I have a passion for transform
 
 ###
 
-**<h2>🛠️ Languages and Tools:</h2>**
+**<h2>Languages and Tools:</h2>**
 
 ###
 
