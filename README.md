@@ -76,6 +76,11 @@ See the contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md "Access to Gu
 
 ###
 
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kauan19-hub&theme=react-dark&hide_title=true" width=730px />
+</p>
+
+
 
 
 
