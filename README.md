@@ -36,7 +36,7 @@ With junior experience in full-stack development, I have a passion for transform
 
 ###
 
-Front-End
+**Front-End**
 
 ###
 
@@ -62,7 +62,7 @@ Front-End
 
 ###
 
-Back-End
+**Back-End**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
@@ -84,7 +84,7 @@ Back-End
 
 ###
 
-Data-Base
+**Data-Base**
 
 ###
 
@@ -96,7 +96,7 @@ Data-Base
 
 ###
 
-CI/CD & DevOps
+**CI/CD & DevOps**
 
 ###
 
@@ -110,7 +110,7 @@ CI/CD & DevOps
 
 ###
 
-Tools
+**Tools**
 
 ###
 
@@ -130,7 +130,7 @@ Tools
 
 ###
 
-UI/UX & Prototype
+**UI/UX & Prototype**
 
 ###
 
