@@ -26,6 +26,12 @@ With junior experience in full-stack development, I have a passion for transform
 
 ###
 
+<div align="left">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kauan19-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=false&order=2&custom_title=Language's%20Graph" height="250" alt="languages graph" />
+</div>
+
+---
+
 **<h2>Languages and Tools:</h2>**
 
 ###
@@ -137,10 +143,6 @@ UI/UX & Prototype
 
 ###
 
-<div align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kauan19-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=false&order=2&custom_title=Language's%20Graph" height="250" alt="languages graph" />
-</div>
-
 --- 
 
 <h6>Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author.</h6>
@@ -152,8 +154,3 @@ UI/UX & Prototype
 See the contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md "Access to Guide of Contributings")
 
 ###
-
-
-
-
-    
