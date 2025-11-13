@@ -56,7 +56,7 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="TailwindCSS"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" title="TypeScript" />
-  <img width="2" />
+  <img width="2" /><br>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" title="Bootstrap" />
 </div>
 
