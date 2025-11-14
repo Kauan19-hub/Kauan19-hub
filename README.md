@@ -126,6 +126,8 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" title="Digital Arduíno (IoT)" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo" title="IntelliJidea" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="Docker" />
 </div>
 
 ###
