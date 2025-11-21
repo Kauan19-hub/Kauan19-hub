@@ -58,6 +58,8 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" title="TypeScript" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" title="Bootstrap" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" title="SASS" />
 </div>
 
 ###
@@ -78,6 +80,8 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" title="Jest" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="C" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" title="Dart" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" title="C#" />
 </div>
@@ -106,6 +110,8 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo" title="Google Cloud" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" title="Postman" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" title="AWS (Amazon Web Services)" />
 </div>
 
 ###
@@ -128,6 +134,8 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo" title="IntelliJidea" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="Docker" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" title="Flutter" />
 </div>
 
 ###
