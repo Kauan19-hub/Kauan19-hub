@@ -84,6 +84,10 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" title="Dart" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" title="C#" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo" title="Ruby"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" title="Flask" />
 </div>
 
 ###
@@ -96,6 +100,12 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="SQL" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" title="SQLite" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" title="PostgreeSQL" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" title="PHP" />
 </div>
 
 ###
@@ -136,6 +146,8 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="Docker" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" title="Flutter" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" title="Kubernetes" />
 </div>
 
 ###
@@ -149,6 +161,8 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo" title="Figma" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=autocad" height="35" alt="autocad logo" title="Autocad" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo" title="Adobe Ilustrator" />
 </div>
 
 ###
