@@ -24,12 +24,6 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1460be&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </div>
 
-###
-
-<div align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kauan19-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=false&order=2&custom_title=Language's%20Graph" height="250" alt="languages graph"/>
-</div>
-
 ---
 
 **<h2>Languages and Tools:</h2>**
