@@ -124,6 +124,16 @@ With junior experience in full-stack development, I have a passion for transform
 
 ###
 
+**Deploy**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" title="Kubernetes" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="Docker" />
+</div>
+
+###
+
 **Tools**
 
 ###
@@ -141,11 +151,7 @@ With junior experience in full-stack development, I have a passion for transform
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo" title="IntelliJidea" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="Docker" />
-  <img width="1" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" title="Flutter" />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" title="Kubernetes" />
 </div>
 
 ###
@@ -153,7 +159,6 @@ With junior experience in full-stack development, I have a passion for transform
 **UI/UX & Prototype**
 
 ###
-
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo" title="Figma" />
