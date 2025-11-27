@@ -130,6 +130,8 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" title="Kubernetes" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="Docker" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" title="GitHub Actions" />
 </div>
 
 ###
