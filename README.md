@@ -13,6 +13,10 @@ I am a professional who works at the intersection of technology and creativity. 
 With junior experience in full-stack development, I have a passion for transforming ideas into functional products — whether with clean code, intuitive interfaces, or clear documentation.
 </p>
 
+<p align="justify">
+Throughout my journey, I have been dedicating myself every day to learning new languages, tools, and skills, always seeking to improve my technical knowledge and my ability    to work in a team. Today, I focus on delivering complete tasks, and doing so 100% professionally. My career is marked by a commitment to continuous growth, adaptation to       new challenges, and the pursuit of excellence in every project!
+</p>
+
 ###
 
 <div align="left">
