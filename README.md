@@ -54,6 +54,10 @@ With junior experience in full-stack development, I have a passion for transform
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" title="Bootstrap" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" title="SASS" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo" title="Vue" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" title="NextJS" />
 </div>
 
 ###
