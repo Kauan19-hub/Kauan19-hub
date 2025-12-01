@@ -5,6 +5,7 @@
 **Bosch** Employee | **Full-Stack** Developer | **UI/UX** Designer
 
 ###
+
 <p align="justify">
 I am a professional who works at the intersection of technology and creativity. Today I work at Bosch, where I apply my knowledge in engineering, UI/UX, and software development.
 </p>
@@ -14,7 +15,11 @@ With junior experience in full-stack development, I have a passion for transform
 </p>
 
 <p align="justify">
-Throughout my journey, I have been dedicating myself every day to learning new languages, tools, and skills, always seeking to improve my technical knowledge and my ability    to work in a team. Today, I focus on delivering complete tasks, and doing so 100% professionally. My career is marked by a commitment to continuous growth, adaptation to       new challenges, and the pursuit of excellence in every project!
+Throughout my journey, I have been dedicating myself every day to learning new languages, tools, and skills, always seeking to improve my technical knowledge and my ability    to work in a team.
+</p>
+
+<p align="justify">
+Today, I focus on delivering complete tasks, and doing so 100% professionally. My career is marked by a commitment to continuous growth, adaptation to       new challenges, and the pursuit of excellence in every project!
 </p>
 
 ###
