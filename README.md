@@ -140,6 +140,8 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" title="Postman" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" title="AWS (Amazon Web Services)" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" title="Go" />
 </div>
 
 ###
