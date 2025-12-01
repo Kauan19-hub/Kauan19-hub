@@ -1,4 +1,4 @@
-**<h2>👋 Hello World, I'm Kauan!</h2>**
+**<h1>👋 Hello World, I'm Kauan!</h1>**
 
 ###
 
