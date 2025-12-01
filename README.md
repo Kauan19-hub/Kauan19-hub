@@ -2,40 +2,45 @@
 
 ###
 
-**Bosch** Employee | **Full-Stack** Developer | **UI/UX** Designer
+**Bosch** Employee | `Full-Stack` Developer | `UI/UX` Designer | From **Brazil** - Campinas/São Paulo
 
 ---
 
-<p align="justify">
-I am a professional who works at the intersection of technology and creativity. Today I work at Bosch, where I apply my knowledge in engineering, UI/UX, and software development.
-</p>
+I am a professional who works at the intersection of **technology** and **creativity**. Today I work at **Bosch**, where I apply my knowledge in engineering, **UI/UX**, and **software development**.
 
-<p align="justify">
-With junior experience in full-stack development, I have a passion for transforming ideas into functional products — whether with clean code, intuitive interfaces, or clear documentation.
-</p>
+###
 
-<p align="justify">
-Throughout my journey, I have been dedicating myself every day to learning new languages, tools, and skills, always seeking to improve my technical knowledge and my ability    to work in a team.
-</p>
+With **junior experience** in `full-stack` development, I have a passion for transforming ideas into **functional** products — whether with **clean code**, intuitive interfaces, or clear documentation.
 
-<p align="justify">
-Today, I focus on delivering complete tasks, and doing so 100% professionally. My career is marked by a commitment to continuous growth, adaptation to       new challenges, and the pursuit of excellence in every project!
-</p>
+###
+
+Throughout my journey, I have been dedicating myself every day to learning new `languages`, `tools`, and `skills`, always seeking to improve my technical knowledge and my ability to work in a team.
+
+###
+
+Today, I **focus** on delivering complete tasks, and doing so `100%` professionally. My career is marked by a commitment to continuous **growth**, adaptation to new challenges, and the pursuit of excellence in **every project**!
 
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==" title="Instagram" /a>
+  <a href="https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==" title="Instagram">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=be2929&logoColor=ffffff&labelColor=0000&style=for-the-badge" height="25" alt="instagram logo" />
-  <a href="mailto:saleskauan308@gmail.com" title="E-mail" /a>
+  </a>
+  <a href="mailto:saleskauan308@gmail.com" title="E-mail">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=cccccc&logoColor=d20202&labelColor=0000&style=for-the-badge" height="25" alt="gmail logo" />
-  <a href="https://www.linkedin.com/in/kauan-vin%C3%ADcius-953773359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="Linkedin" /a>
+  </a>
+  <a href="https://www.linkedin.com/in/kauan-vin%C3%ADcius-953773359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="Linkedin">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1460be&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
 </div>
 
 ---
 
 **<h2>Hard Skills</h2>**
+
+###
+
+> Technologies | I Use Regularly
 
 ###
 
@@ -52,9 +57,9 @@ Today, I focus on delivering complete tasks, and doing so 100% professionally. M
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="React" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo" title="Angular.JS"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo" title="Angular"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="Node.JS"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="Node"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="TailwindCSS"  />
   <img width="1" />
@@ -66,12 +71,14 @@ Today, I focus on delivering complete tasks, and doing so 100% professionally. M
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo" title="Vue" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" title="NextJS" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" title="Next" />
 </div>
 
 ###
 
 **Back-End**
+
+###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
@@ -110,10 +117,14 @@ Today, I focus on delivering complete tasks, and doing so 100% professionally. M
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" title="PostgreeSQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" title="PostgreSQL" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" title="PHP" />
 </div>
+
+###
+
+> Technologies | I have Experience with
 
 ###
 
@@ -134,6 +145,8 @@ Today, I focus on delivering complete tasks, and doing so 100% professionally. M
 ###
 
 **Deploy**
+
+###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" title="Kubernetes" />
@@ -158,7 +171,7 @@ Today, I focus on delivering complete tasks, and doing so 100% professionally. M
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" title="Pycharm" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" title="Digital Arduíno (IoT)" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" title="Digital Arduino (IoT)" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo" title="IntelliJidea" />
   <img width="1" />
@@ -176,12 +189,30 @@ Today, I focus on delivering complete tasks, and doing so 100% professionally. M
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=autocad" height="35" alt="autocad logo" title="Autocad" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo" title="Adobe Ilustrator" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo" title="Adobe Illustrator" />
 </div>
 
 ###
 
 ---
+
+**<h2>Featured Projects</h2>**
+
+###
+
+- User Registration in the Database;<br>
+[https://github.com/Kauan19-hub/Back-End](https://github.com/Kauan19-hub/Back-End "Click Here")<br>
+
+- Portfólio with Exercises;<br>
+[https://github.com/Kauan19-hub/Portfolio-SENAI](https://github.com/Kauan19-hub/Portfolio-SENAI "Click Here")<br>
+
+- API with Node.JS;<br>
+[https://github.com/Kauan19-hub/Serverless-NODE.JS](https://github.com/Kauan19-hub/Serverless-NODE.JS "Click Here")<br>
+
+- BookStore | Full-Stack Project;<br>
+[https://github.com/Kauan19-hub/BookStore](https://github.com/Kauan19-hub/BookStore "Click Here");<br>
+
+###
 
 **<h2>License n' Contributions</h2>**
 
