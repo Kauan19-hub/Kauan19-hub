@@ -202,13 +202,13 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ###
 
-- User Registration in the Database;<br>
+- 💻 User Registration in the Database;<br>
 [https://github.com/Kauan19-hub/Back-End](https://github.com/Kauan19-hub/Back-End "Click Here")<br>
 
-- Portfólio with Exercises;<br>
+- 📒 Portfólio with Exercises;<br>
 [https://github.com/Kauan19-hub/Portfolio-SENAI](https://github.com/Kauan19-hub/Portfolio-SENAI "Click Here")<br>
 
-- API with Node.JS;<br>
+- 💡 API with Node.JS;<br>
 [https://github.com/Kauan19-hub/Serverless-NODE.JS](https://github.com/Kauan19-hub/Serverless-NODE.JS "Click Here")<br>
 
 - BookStore | Full-Stack Project;<br>
