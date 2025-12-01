@@ -181,7 +181,11 @@ Today, I focus on delivering complete tasks, and doing so 100% professionally. M
 
 ###
 
---- 
+---
+
+**<h2>License n' Contribution</h2>**
+
+###
 
 <h6>Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author.</h6>
 
@@ -189,4 +193,4 @@ Today, I focus on delivering complete tasks, and doing so 100% professionally. M
 
 ###
 
-See the contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md "Access to Guide of Contributings")
+See the contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md "Access to Guide of Contributions")
