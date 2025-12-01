@@ -40,7 +40,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ###
 
-> Technologies | I Use Regularly
+> Technologies | I Used frequently
 
 ###
 
@@ -124,7 +124,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ###
 
-> Technologies | I have Experience with
+> Technologies | I Previously used / familiar with
 
 ###
 
