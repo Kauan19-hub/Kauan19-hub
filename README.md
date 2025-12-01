@@ -35,7 +35,7 @@ Today, I focus on delivering complete tasks, and doing so 100% professionally. M
 
 ---
 
-**<h2>Languages and Tools:</h2>**
+**<h2>Hard Skills</h2>**
 
 ###
 
