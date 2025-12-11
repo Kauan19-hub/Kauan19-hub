@@ -180,6 +180,8 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" title="Flutter" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" title="Notion"/>
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" title="MarkDown GitHub" />
 </div>
 
 ###
