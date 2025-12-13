@@ -67,11 +67,13 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" title="Bootstrap" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" title="SASS" />
-  <img width="1" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo" title="Vue" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" title="Next" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" title="Redux" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  title="Vite" />
 </div>
 
 ###
@@ -102,6 +104,8 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo" title="Ruby"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" title="Flask" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="rails logo" title="Rails" />
 </div>
 
 ###
@@ -182,6 +186,8 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" title="Notion"/>
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" title="MarkDown GitHub" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" title="Visual Studio" />
 </div>
 
 ###
@@ -189,7 +195,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ###
 
-**UI/UX & Prototype**
+**UI/UX & Web Design**
 
 ###
 
