@@ -2,7 +2,7 @@
 
 ###
 
-**Bosch** Employee | `Full-Stack` Developer | `UI/UX` Designer | **Brazil** - Campinas/São Paulo
+**Bosch** Employee | `Full-Stack` Developer | **Brazil** - Campinas/São Paulo
 
 ---
 
