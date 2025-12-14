@@ -93,8 +93,6 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" title="FastAPI"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" title="Jest" />
-  <img width="1" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="C" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" title="Dart" />
