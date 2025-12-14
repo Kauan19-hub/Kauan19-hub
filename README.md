@@ -240,3 +240,4 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 ###
 
 See the contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md "Access to Guide of Contributions")
+
