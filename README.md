@@ -98,8 +98,6 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo" title="Ruby"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" title="Flask" />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="rails logo" title="Rails" />
 </div>
 
 ###
