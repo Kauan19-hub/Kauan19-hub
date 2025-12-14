@@ -70,10 +70,6 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo" title="Vue" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" title="Next" />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" title="Redux" />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  title="Vite" />
 </div>
 
 ###
