@@ -10,8 +10,8 @@ Thank you for your interest in contributing to my projects! Any contribution wil
 
 ###
 
-1️⃣- `Fork` the repository of the desired project;<br>
-2️⃣- Create a `Branch` for your modification:
+- `Fork` the repository of the desired project;<br>
+- Create a `Branch` for your modification:
 
 ###
 ```powershell
@@ -20,7 +20,7 @@ git checkout -b My Alteration
 
 ###
 
-3️⃣- Create your changes n' your `commits`:
+- Create your changes n' your `commits`:
 
 ###
 ```powershell
@@ -29,7 +29,7 @@ git commit -m "Description of the Change"
 
 ###
 
-4️⃣- Push to the remote repository:
+- Push to the remote repository:
 
 ###
 ```powershell
@@ -38,7 +38,7 @@ git push -u origin My-Alteration
 
 ###
 
-5️⃣- Create a `Pull Requests` describing your changes.
+- Create a `Pull Requests` describing your changes.
 
 ###
 
