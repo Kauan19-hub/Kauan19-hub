@@ -211,13 +211,16 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 - 🧑🏻‍💻 Portfólio with Exercises | **Front-End** Project;<br>
 [https://github.com/Kauan19-hub/Portfolio-SENAI](https://github.com/Kauan19-hub/Portfolio-SENAI "Click Here")<br>
 
-- 💡 API with Node.JS - **Full-Stack** Project;<br>
+- 💡 API with Node.JS | **Full-Stack** Project;<br>
 [https://github.com/Kauan19-hub/Serverless-NODE.JS](https://github.com/Kauan19-hub/Serverless-NODE.JS "Click Here")<br>
 
-- 📚 BookStore | **Back-End** Project.<br>
+- 📚 BookStore | **Back-End** Project;<br>
 [https://github.com/Kauan19-hub/BookStore](https://github.com/Kauan19-hub/BookStore "Click Here")<br>
 
-###
+- 💻 Translator | **Front-End** Project - React + API **Without** **Back-End**.<br>
+[https://github.com/Kauan19-hub/CS-Application](https://github.com/Kauan19-hub/CS-Application.git)<br>
+
+---
 
 **<h2>License n' Contributions</h2>**
 
