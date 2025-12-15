@@ -46,10 +46,10 @@ Create a `Pull Requests` describing your changes.
 
 ###
 
-- Write clear and objective commit messages;
-- Ensure that your code is formatted and follows the project's standards;
-- Whenever possible, add tests for your changes;
-- Update the documentation if your modification requires it.
+Write clear and objective commit messages;<br>
+Ensure that your code is formatted and follows the project's standards;<br>
+Whenever possible, add tests for your changes;<br>
+Update the documentation if your modification requires it.
 
 ###
 
