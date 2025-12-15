@@ -10,8 +10,8 @@ Thank you for your interest in contributing to my projects! Any contribution wil
 
 ###
 
-- `Fork` the repository of the desired project;<br>
-- Create a `Branch` for your modification:
+`Fork` the repository of the desired project;<br>
+Create a `Branch` for your modification:
 
 ###
 ```powershell
@@ -20,7 +20,7 @@ git checkout -b My Alteration
 
 ###
 
-- Create your changes n' your `commits`:
+Create your changes n' your `commits`:
 
 ###
 ```powershell
@@ -29,7 +29,7 @@ git commit -m "Description of the Change"
 
 ###
 
-- Push to the remote repository:
+Push to the remote repository:
 
 ###
 ```powershell
@@ -38,7 +38,7 @@ git push -u origin My-Alteration
 
 ###
 
-- Create a `Pull Requests` describing your changes.
+Create a `Pull Requests` describing your changes.
 
 ###
 
@@ -61,9 +61,9 @@ Found a bug or have a suggestion?
 
 ###
 
-- Open an Issue detailing the problem or idea;
-- Include steps to reproduce (**if it's a bug**);
-- Suggest improvements or alternatives, if possible.
+Open an Issue detailing the problem or idea;<br>
+Include steps to reproduce (**if it's a bug**);<br>
+Suggest improvements or alternatives, if possible.<br>
 
 ###
 
@@ -77,4 +77,3 @@ Mutual respect is essential for building an organized and healthy community!
 ---
 
 **<h3>Thank u again for your contribution!</h3>**
-
