@@ -1,4 +1,4 @@
-**<h2>Contributions Guide</h2>**
+## Contributions Guide
 
 ###
 
@@ -6,7 +6,7 @@ Thank you for your interest in contributing to my projects! Any contribution wil
 
 ###
 
-**How to Contribute?**
+## How to Contribute?
 
 ###
 
@@ -42,7 +42,7 @@ Create a `Pull Requests` describing your changes.
 
 ###
 
-**Practices**
+## Practices
 
 ###
 
@@ -53,7 +53,7 @@ Update the documentation if your modification requires it.
 
 ###
 
-**Report Problems**
+## Report Problems
 
 ###
 
@@ -67,7 +67,7 @@ Suggest improvements or alternatives, if possible.<br>
 
 ###
 
-**Code of Conduct**
+## Code of Conduct
 
 ###
 
@@ -75,5 +75,3 @@ By contributing, you agree to maintain an open, welcoming, and respectful enviro
 Mutual respect is essential for building an organized and healthy community!
 
 ---
-
-**<h3>Thank u again for your contribution!</h3>**
