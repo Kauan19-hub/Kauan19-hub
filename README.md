@@ -1,3 +1,7 @@
+<img width="930" height="317" alt="image" src="https://github.com/user-attachments/assets/ed02ebb7-c785-4407-b570-9460b871c635" />
+
+###
+
 **<h1>👋 Hello World, I'm Kauan!</h1>**
 
 ###
