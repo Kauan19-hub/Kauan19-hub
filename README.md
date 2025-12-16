@@ -2,7 +2,7 @@
 
 ###
 
-**Bosch** Employee | `Full-Stack` Developer | **Brazil** - Campinas/São Paulo
+**Bosch** Employee | From **Brazil** - Campinas/São Paulo
 
 ---
 
