@@ -6,7 +6,7 @@
 
 ###
 
-**Bosch** Employee | From **Brazil** - Campinas/São Paulo
+**Bosch** Employee | From **Brazil** - Campinas/São Paulo | **17** Years Old | **High School** Student - **3rd** Year
 
 ---
 
@@ -226,11 +226,21 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ---
 
+**<h2>Current Position</h2>**
+
+###
+
+|| Young Apprentice |
+|:--:|:--|
+| <img width="95" height="95" alt="Bosch logo" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b"/> | **Bosch** is a **world** leader in industrial **technology** and solutions. I work at the **Campinas** plant, participating in the **company's** daily operations and projects.<br><br>[https://www.bosch.com.br](https://www.bosch.com.br "Access the Bosch website") |
+
+---
+
 **<h2>License n' Contributions</h2>**
 
 ###
 
-<h6>Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author.</h6>
+> Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author.
 
 [MIT License](https://opensource.org/licenses/MIT "Access to MIT License")
 
