@@ -2,7 +2,7 @@
 
 ###
 
-**<h1>👋 Hello World, I'm Kauan!</h1>**
+# 👋 Hello World, I'm Kauan!
 
 ###
 
@@ -40,7 +40,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ---
 
-**<h2>Hard Skills</h2>**
+# Hard Skills
 
 ###
 
@@ -205,7 +205,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ---
 
-**<h2>Featured Projects</h2>**
+# Featured Projects
 
 ###
 
@@ -226,7 +226,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ---
 
-**<h2>Current Position</h2>**
+# Current Position
 
 ###
 
@@ -236,7 +236,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ---
 
-**<h2>License n' Contributions</h2>**
+# License n' Contributions
 
 ###
 
