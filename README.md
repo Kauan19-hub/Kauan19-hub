@@ -232,7 +232,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 || Young Apprentice |
 |:--:|:--|
-| <img width="170" height="170" alt="Bosch logo" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b"/> | **Bosch** is a **world** leader in industrial **technology** and solutions. I work at the **Campinas** plant, participating in the **company's** daily operations and projects.<br><br>[https://www.bosch.com.br](https://www.bosch.com.br "Access the Bosch website") |
+| <img width="190" height="190" alt="Bosch logo" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b"/> | **Bosch** is a **world** leader in industrial **technology** and solutions. I work at the **Campinas** plant, participating in the **company's** daily operations and projects.<br><br>[https://www.bosch.com.br](https://www.bosch.com.br "Access the Bosch website") |
 
 ---
 
