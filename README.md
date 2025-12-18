@@ -6,7 +6,7 @@
 
 ###
 
-**Bosch** Employee | From **Brazil** - Campinas/São Paulo | **17** Years Old | **High School** Student - **3rd** Year
+**Bosch** Employee | From **Brazil** - Campinas/São Paulo | **17** Years Old | **High School** Student - **3rd** Year | `Full-Stack` dev
 
 ---
 
