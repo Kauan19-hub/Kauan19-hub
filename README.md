@@ -57,7 +57,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 [https://github.com/kauanvinicius9/BookStore](https://github.com/kauanvinicius9/BookStore "Click Here")<br>
 
 - 💻 Translator | **Front-End** Project - React + API **Without** **Back-End**.<br>
-[hthttps://github.com/kauanvinicius9/R-Translator](https://github.com/kauanvinicius9/R-Translator)<br>
+[hthttps://github.com/kauanvinicius9/R-Translator](https://github.com/kauanvinicius9/R-Translator "Click Here")<br>
 
 ---
 
@@ -75,9 +75,11 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ###
 
-> Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author.
+Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author.
 
-[MIT License](https://opensource.org/licenses/MIT "Access to MIT License")
+###
+
+See the official MIT License: [MIT License](https://opensource.org/licenses/MIT "Access to MIT License")
 
 ###
 
