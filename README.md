@@ -248,14 +248,3 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 See the contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md "Access to Guide of Contributions")
 
----
-
-# GitHub Stats
-
-###
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kauanvinicius9&theme=tokyo-night" width="800" />
-</div>
-
-
