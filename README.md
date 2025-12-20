@@ -50,13 +50,16 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 - 🧑🏻‍💻 Portfólio with Exercises | **Front-End** Project;<br>
 [https://github.com/kauanvinicius9/Portfolio-SENAI](https://github.com/kauanvinicius9/Portfolio-SENAI "Click Here")<br>
 
+- 🚧 Official Portfólio (2) - In process... | **Front-End** Project;<br>
+[https://github.com/kauanvinicius9/Portfolio-V2](https://github.com/kauanvinicius9/Portfolio-V2 "Click Here")<br>
+
 - 💡 API with Node.JS | **Full-Stack** Project;<br>
 [https://github.com/kauanvinicius9/Serverless-NODE.JS](https://github.com/kauanvinicius9/Serverless-NODE.JS "Click Here")<br>
 
 - 📚 BookStore | **Back-End** Project;<br>
 [https://github.com/kauanvinicius9/BookStore](https://github.com/kauanvinicius9/BookStore "Click Here")<br>
 
-- 💻 Translator | **Front-End** Project - React + API **Without** **Back-End**.<br>
+- 📋 Translator | **Front-End** Project - React + API **Without** **Back-End**.<br>
 [hthttps://github.com/kauanvinicius9/R-Translator](https://github.com/kauanvinicius9/R-Translator "Click Here")<br>
 
 ---
